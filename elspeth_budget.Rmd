@@ -1,0 +1,12 @@
+---
+title: "Elspeth Budget Itemized List"
+author: "Richard Lusch"
+date: "February 17, 2017"
+output: html_document
+---
+
+**Elspeth Budget Itemized List**  
+*  3 Awakening Explosive & 2 Sleeping (AOE) - 150 GP  
+*  5 Healing Potions 125 GP  
+
+ 
