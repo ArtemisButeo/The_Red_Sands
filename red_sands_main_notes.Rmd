@@ -103,6 +103,6 @@ Grandforge see's jump, paces the assailant on the ground.  Notices guards approc
 
 **Chris** Attempts to bash head into roof, while keeping jaw stable.
 
-**Bard** Tries to figure out where **Assailant** was heading and succeeds wildly.
+**Bard** Tries to figure out where **Assailant** was heading and succeeds wildly. 
 
 Random not here.
