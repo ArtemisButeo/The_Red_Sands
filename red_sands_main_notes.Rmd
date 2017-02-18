@@ -105,4 +105,4 @@ Grandforge see's jump, paces the assailant on the ground.  Notices guards approc
 
 **Bard** Tries to figure out where **Assailant** was heading and succeeds wildly.
 
-
+Random not here.
